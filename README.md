@@ -1,9 +1,14 @@
-# 💻 Hamza Yaseen – Backend Developer
+# Hi 👋 Welcome 
 
-> **Backend Developer** with MERN-stack mastery & a designer’s eye.  
-> 🔭 Currently hacking on **React.js, Node.js, Python & AI**.  
-> 🤝 **Open to collabs** on fast, secure Node.js APIs.
+## I'm Hamza Y.
+ Some see rocks. I see patterns 🔁, logic 🧠, and possibilities 🚀 waiting to be mined. ⛏️💻
 
+Hi, I’m Hamza Yaseen — a Computer Science student with a deep interest in coding, AI, machine learning, and backend development.
+I enjoy building real-world tech solutions that solve problems, automate tasks, or simply make things better. From experimenting with Python and machine learning models to developing APIs with Node.js and Express, I’m always eager to explore, learn, and create.
+
+I believe in consistent growth and sharing what I learn along the way — whether it's through projects, posts, or collaboration.
+
+Let’s connect and build something meaningful!
 ---
 
 ## 🔗 Workspace Pulse  
