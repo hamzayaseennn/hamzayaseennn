@@ -1,5 +1,20 @@
 # Hi 👋 Welcome 
-
+name: gitartwork from a contribution graph
+on: 
+  push:
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Replace 'jasineri' with your GitHub username
+          user_name: hamza  # ← Change this to your actual GitHub username
+          # This is the text that appears on the SVG
+          text: HAMZA     # ← This will be displayed in the art
+      - uses: jasineri/simple-push-action@v1
 ## I'm Hamza Y.
  Some see rocks. I see patterns 🔁, logic 🧠, and possibilities 🚀 waiting to be mined. ⛏️💻
 
